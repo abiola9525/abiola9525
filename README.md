@@ -53,7 +53,7 @@ Most of my production work has been done in **private repositories** for startup
 Most client and startup projects are private due to NDAs.  
 I’ve documented my real-world experience and system contributions here:
 
-👉 **[Professional Projects Summary]((https://github.com/abiola9525/professional-projects-summary/blob/ab18710da7bb4803f4af4fbb684ca7ecc909e1bb/README.md))**
+👉 **[Professional Projects Summary](([https://github.com/abiola9525/professional-projects-summary/blob/ab18710da7bb4803f4af4fbb684ca7ecc909e1bb/README.md]))**
 
 ### 🧪 Public Showcase Projects
 - Django/DRF backend API demos
