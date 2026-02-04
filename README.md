@@ -66,7 +66,7 @@ I’ve documented my real-world experience and system contributions here:
 ## 🎯 Current Focus
 - Scalable backend architecture
 - Applied machine learning in real-world systems
-- Developer internships, grants, and research-driven programs
+- Developer grants, and research-driven programs
 
 ---
 
